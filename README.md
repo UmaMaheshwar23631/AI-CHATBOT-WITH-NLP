@@ -25,7 +25,7 @@ However, relying only on hardcoded questions makes any chatbot limited. So I int
 
 The final touch was creating a clean and friendly GUI using Streamlit — a Python-based web framework. Streamlit’s chat_input and chat_message widgets helped simulate a natural chat interface, complete with scrolling history and two-sided interaction (user & bot). The app has a page title, emoji styling, and remembers chat history using session state.
 
-I have made it with the help of resources from Google, Youtube & Chatgpt. It's great but still has some flaws like not able to recognize some people or places. It was fun to make despite it's flaws.
+I have made it with the help of resources from Google, Youtube & Chatgpt. It's great but still has some flaws like not able to recognize some people or places. It was fun to make despite it's flaws. Run the code by typing : python -m streamlit run (filename).py on your terminal. You also need to install the required library - pip install nltk streamlit wikipedia
 
 🌟 Why This Chatbot Matters
 This chatbot isn’t just a demo — it’s a lightweight intelligent assistant that combines the best of both worlds: offline NLP logic and online knowledge lookup. It’s fast, works in the browser, and doesn’t rely on large cloud models or API keys. More importantly, it shows how even limited resources (like NLTK and a small script) can be stretched to make a helpful, smart, and engaging chatbot.
@@ -43,3 +43,10 @@ This chatbot isn’t just a demo — it’s a lightweight intelligent assistant 
 Through this project, I learned how to combine NLP, information retrieval, and user interface design to build a complete conversational system. From text cleaning and similarity scoring to Wikipedia scraping and Streamlit-based deployment — this task helped me bridge the gap between traditional chatbot logic and modern interactive tools.
 
 It’s a simple yet powerful foundation for smarter AI systems in the future. 🚀
+
+*Output* 
+
+![Image](https://github.com/user-attachments/assets/5c4ebb55-5aef-4bb6-b1c5-f8a8caecd4fc)
+![Image](https://github.com/user-attachments/assets/7c33acd1-98f0-4548-bde1-462214f64a7f)
+![Image](https://github.com/user-attachments/assets/01ed6139-2393-4425-b08c-27b416b92f15)
+![Image](https://github.com/user-attachments/assets/2f0d1026-ac6a-470c-b95e-83d0d91eae7e)
