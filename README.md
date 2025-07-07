@@ -50,3 +50,5 @@ Itâ€™s a simple yet powerful foundation for smarter AI systems in the future. ðŸ
 ![Image](https://github.com/user-attachments/assets/7c33acd1-98f0-4548-bde1-462214f64a7f)
 ![Image](https://github.com/user-attachments/assets/01ed6139-2393-4425-b08c-27b416b92f15)
 ![Image](https://github.com/user-attachments/assets/2f0d1026-ac6a-470c-b95e-83d0d91eae7e)
+
+As you can see , sometimes, it does not give the appropriate answer. But most of the time, it works perfectly. 
